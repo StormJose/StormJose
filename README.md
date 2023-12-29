@@ -8,7 +8,7 @@ Iniciei com desenvolvimento front-end. Atualmente programo no desenvolvimento ba
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StormJose&repo=forkify&bg_color=040a17&border_color=040a17&show_icons=true&icon_color=d97706&title_color=2563eb&text_color=d3e0fb)](https://github.com/StormJose/forkify)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StormJose&repo=nasa-mission-control&bg_color=040a17&border_color=040a17&show_icons=true&icon_color=d97706&title_color=2563eb&text_color=d3e0fb)](https://github.com/StormJose/nasa-mission-control)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StormJose&repo=nasa-mission-control-project&bg_color=040a17&border_color=040a17&show_icons=true&icon_color=d97706&title_color=2563eb&text_color=d3e0fb)](https://github.com/StormJose/nasa-mission-control-project)
 
 
 - 📫 @j.ricardo.23 on Instagram or ricardo23feitosa@gmail.com for E-mail contact.
