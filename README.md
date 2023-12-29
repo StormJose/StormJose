@@ -12,7 +12,7 @@ Iniciei com desenvolvimento front-end. Atualmente programo no desenvolvimento ba
 
 ## Minhas stats!
 <!--- Stats and Top langs! --->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StormJose&theme=transparent&bg_color=040a17&border_color=040a17&show_icons=true&icon_color=d97706&title_color=2563eb&text_color=d3e0fb&text_align=center) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StormJose&layout=compact&bg_color=040a17&border_color=040a17&show_icons=true&icon_color=d97706&title_color=2563eb&text_color=d3e0fb&height=100px&text_align=center)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=StormJose&theme=transparent&bg_color=040a17&border_color=040a17&show_icons=true&icon_color=d97706&title_color=2563eb&text_color=d3e0fb&text_align=center) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StormJose&layout=compact&bg_color=040a17&border_color=040a17&show_icons=true&icon_color=d97706&title_color=2563eb&text_color=d3e0fb&text_align=center)
 
 
 
