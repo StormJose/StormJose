@@ -1,9 +1,13 @@
 👋 Hi, I’m @StormJose / Olá, Sou @StormJose
+⚡ Junior Back-end developer based on São Paulo / Desenvolvedor back-end nascido em São Paulo
+💪 Contribuiting to Open-Source out there / Contribuindo em projetos de código aberto.
+📦 MERN Stack.
 
-Iniciei com desenvolvimento front-end. Atualmente programo no desenvolvimento back-end em Node.js & Express como ferramentas principais e busco me tornar desenvolvedor full-stack 👀.
+
 
 <!-- Spotify !--->
 [![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=storm_play&count=1)](https://open.spotify.com/user/storm_play)
+
 
 <!-- Language Badges! --->
 ## Technology Stack
