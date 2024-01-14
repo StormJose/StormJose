@@ -1,7 +1,7 @@
 👋 Hi, I’m @StormJose / Olá, Sou @StormJose <br/>
 ⚡ Junior Back-end developer based on São Paulo / Desenvolvedor back-end nascido em São Paulo  <br/>
 💪 Contribuiting to Open-Source out there / Contribuindo em projetos de código aberto.  <br/>
-📦 MERN Stack.
+🎮 When I'm not drinking coffee I'm reading of playing / Quando não estou bebendo café estou lendo ou jogando
 
 
 
