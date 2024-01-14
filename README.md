@@ -1,6 +1,6 @@
-👋 Hi, I’m @StormJose / Olá, Sou @StormJose
-⚡ Junior Back-end developer based on São Paulo / Desenvolvedor back-end nascido em São Paulo
-💪 Contribuiting to Open-Source out there / Contribuindo em projetos de código aberto.
+👋 Hi, I’m @StormJose / Olá, Sou @StormJose <br/>
+⚡ Junior Back-end developer based on São Paulo / Desenvolvedor back-end nascido em São Paulo  <br/>
+💪 Contribuiting to Open-Source out there / Contribuindo em projetos de código aberto.  <br/>
 📦 MERN Stack.
 
 
