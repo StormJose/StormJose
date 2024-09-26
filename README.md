@@ -6,7 +6,7 @@
 
 
 <!-- Spotify !--->
-[![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=storm_play&count=1)](https://open.spotify.com/user/storm_play)
+
 
 
 <!-- Language Badges! --->
