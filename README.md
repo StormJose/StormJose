@@ -10,13 +10,8 @@
 
 
 <!-- Language Badges! --->
-## Technology Stack
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![javascript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js) !
-
-## Principais criações
-<!--- Main repos --->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StormJose&repo=forkify&bg_color=040a17&border_color=040a17&show_icons=true&icon_color=d97706&title_color=2563eb&text_color=d3e0fb&text_align=center)](https://github.com/StormJose/forkify) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=StormJose&repo=nasa-mission-control-project&bg_color=040a17&border_color=040a17&show_icons=true&icon_color=d97706&title_color=2563eb&text_color=d3e0fb&text_align=center)](https://github.com/StormJose/nasa-mission-control-project)
-
+## Tool Stack
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![javascript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python) 
 
 - 📫 ricardo23feitosa@gmail.com for E-mail contact.
 
